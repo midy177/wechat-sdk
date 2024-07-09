@@ -3,8 +3,8 @@ package broadcast
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/midy177/wechat-sdk/officialaccount/context"
+	"github.com/midy177/wechat-sdk/util"
 )
 
 const (

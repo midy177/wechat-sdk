@@ -3,12 +3,12 @@ package openplatform
 import (
 	"net/http"
 
-	"github.com/silenceper/wechat/v2/officialaccount/server"
-	"github.com/silenceper/wechat/v2/openplatform/account"
-	"github.com/silenceper/wechat/v2/openplatform/config"
-	"github.com/silenceper/wechat/v2/openplatform/context"
-	"github.com/silenceper/wechat/v2/openplatform/miniprogram"
-	"github.com/silenceper/wechat/v2/openplatform/officialaccount"
+	"github.com/midy177/wechat-sdk/officialaccount/server"
+	"github.com/midy177/wechat-sdk/openplatform/account"
+	"github.com/midy177/wechat-sdk/openplatform/config"
+	"github.com/midy177/wechat-sdk/openplatform/context"
+	"github.com/midy177/wechat-sdk/openplatform/miniprogram"
+	"github.com/midy177/wechat-sdk/openplatform/officialaccount"
 )
 
 // OpenPlatform 微信开放平台相关api

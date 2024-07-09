@@ -3,7 +3,7 @@ package kf
 import (
 	"encoding/xml"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/midy177/wechat-sdk/util"
 )
 
 // SignatureOptions 微信服务器验证参数

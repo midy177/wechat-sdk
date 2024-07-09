@@ -1,20 +1,20 @@
 package work
 
 import (
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/work/addresslist"
-	"github.com/silenceper/wechat/v2/work/appchat"
-	"github.com/silenceper/wechat/v2/work/checkin"
-	"github.com/silenceper/wechat/v2/work/config"
-	"github.com/silenceper/wechat/v2/work/context"
-	"github.com/silenceper/wechat/v2/work/externalcontact"
-	"github.com/silenceper/wechat/v2/work/invoice"
-	"github.com/silenceper/wechat/v2/work/kf"
-	"github.com/silenceper/wechat/v2/work/material"
-	"github.com/silenceper/wechat/v2/work/message"
-	"github.com/silenceper/wechat/v2/work/msgaudit"
-	"github.com/silenceper/wechat/v2/work/oauth"
-	"github.com/silenceper/wechat/v2/work/robot"
+	"github.com/midy177/wechat-sdk/credential"
+	"github.com/midy177/wechat-sdk/work/addresslist"
+	"github.com/midy177/wechat-sdk/work/appchat"
+	"github.com/midy177/wechat-sdk/work/checkin"
+	"github.com/midy177/wechat-sdk/work/config"
+	"github.com/midy177/wechat-sdk/work/context"
+	"github.com/midy177/wechat-sdk/work/externalcontact"
+	"github.com/midy177/wechat-sdk/work/invoice"
+	"github.com/midy177/wechat-sdk/work/kf"
+	"github.com/midy177/wechat-sdk/work/material"
+	"github.com/midy177/wechat-sdk/work/message"
+	"github.com/midy177/wechat-sdk/work/msgaudit"
+	"github.com/midy177/wechat-sdk/work/oauth"
+	"github.com/midy177/wechat-sdk/work/robot"
 )
 
 // Work 企业微信

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/silenceper/wechat/v2/pay/config"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/midy177/wechat-sdk/pay/config"
+	"github.com/midy177/wechat-sdk/util"
 )
 
 // walletTransferGateway 付款到零钱

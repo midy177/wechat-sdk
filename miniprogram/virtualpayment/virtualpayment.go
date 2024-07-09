@@ -28,7 +28,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/midy177/wechat-sdk/util"
 )
 
 // SetSessionKey 设置 sessionKey

@@ -21,7 +21,7 @@
 package minidrama
 
 import (
-	"github.com/silenceper/wechat/v2/miniprogram/context"
+	"github.com/midy177/wechat-sdk/miniprogram/context"
 )
 
 // NewMiniDrama 实例化小程序娱乐直播 API

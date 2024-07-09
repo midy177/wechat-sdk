@@ -3,8 +3,8 @@ package werun
 import (
 	"encoding/json"
 
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/miniprogram/encryptor"
+	"github.com/midy177/wechat-sdk/miniprogram/context"
+	"github.com/midy177/wechat-sdk/miniprogram/encryptor"
 )
 
 // WeRun 微信运动

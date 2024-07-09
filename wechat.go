@@ -6,18 +6,18 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/silenceper/wechat/v2/cache"
-	"github.com/silenceper/wechat/v2/miniprogram"
-	miniConfig "github.com/silenceper/wechat/v2/miniprogram/config"
-	"github.com/silenceper/wechat/v2/officialaccount"
-	offConfig "github.com/silenceper/wechat/v2/officialaccount/config"
-	"github.com/silenceper/wechat/v2/openplatform"
-	openConfig "github.com/silenceper/wechat/v2/openplatform/config"
-	"github.com/silenceper/wechat/v2/pay"
-	payConfig "github.com/silenceper/wechat/v2/pay/config"
-	"github.com/silenceper/wechat/v2/util"
-	"github.com/silenceper/wechat/v2/work"
-	workConfig "github.com/silenceper/wechat/v2/work/config"
+	"github.com/midy177/wechat-sdk/cache"
+	"github.com/midy177/wechat-sdk/miniprogram"
+	miniConfig "github.com/midy177/wechat-sdk/miniprogram/config"
+	"github.com/midy177/wechat-sdk/officialaccount"
+	offConfig "github.com/midy177/wechat-sdk/officialaccount/config"
+	"github.com/midy177/wechat-sdk/openplatform"
+	openConfig "github.com/midy177/wechat-sdk/openplatform/config"
+	"github.com/midy177/wechat-sdk/pay"
+	payConfig "github.com/midy177/wechat-sdk/pay/config"
+	"github.com/midy177/wechat-sdk/util"
+	"github.com/midy177/wechat-sdk/work"
+	workConfig "github.com/midy177/wechat-sdk/work/config"
 )
 
 func init() {

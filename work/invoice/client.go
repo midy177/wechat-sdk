@@ -1,7 +1,7 @@
 package invoice
 
 import (
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/midy177/wechat-sdk/work/context"
 )
 
 // Client 电子发票接口实例

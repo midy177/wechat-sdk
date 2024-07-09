@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/domain/openapi"
-	mpContext "github.com/silenceper/wechat/v2/miniprogram/context"
-	ocContext "github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/midy177/wechat-sdk/domain/openapi"
+	mpContext "github.com/midy177/wechat-sdk/miniprogram/context"
+	ocContext "github.com/midy177/wechat-sdk/officialaccount/context"
+	"github.com/midy177/wechat-sdk/util"
 )
 
 const (

@@ -1,8 +1,8 @@
 package context
 
 import (
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/miniprogram/config"
+	"github.com/midy177/wechat-sdk/credential"
+	"github.com/midy177/wechat-sdk/miniprogram/config"
 )
 
 // Context struct
