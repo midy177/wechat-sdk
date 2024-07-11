@@ -453,7 +453,7 @@ func (r *Client) GetUserIdByEmail(email string) (string, error) {
 	var response []byte
 
 	if response, err = util.PostJSON(strings.Join([]string{
-		userIDGetByMobileURL,
+		userIDGetByEmailURL,
 		util.Query(map[string]interface{}{
 			"access_token": accessToken,
 		}),
